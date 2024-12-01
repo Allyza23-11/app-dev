@@ -1,2 +1,4 @@
-# app-dev
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media# app-dev
 My first repository.
